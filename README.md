@@ -1,2 +1,2 @@
-# new.html
-Latest domain name release
+醉春楼成入网
+最新域名：zuicl.net
