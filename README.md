@@ -25,4 +25,3 @@ zuicl.cn<br>
 	
 	X代表数字, 按照顺序一直往下 
 
-<script>alert('welcom');</script>
