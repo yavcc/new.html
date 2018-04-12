@@ -15,11 +15,12 @@ zuicl#qq.com (将#换成@)
 	
 	
 永久不更换的域名 : <br>
-	<hr />
-zuicl.com <br>
-zuicl.cn<br>
-醉春楼.com<br>
-醉春楼.cn<br>
+<hr />
+
+zuicl.com --
+zuicl.cn --
+醉春楼.com --
+醉春楼.cn
 <hr />
 其他使用过的域名 : <br>
 	
