@@ -1,10 +1,21 @@
 
 <h1>醉春楼成入网</h1>
-<h1><a href="http://www.zcl8.info/?adref=github_com" target="_blank">进入主站 zcl8.info</a></h1>
+<h1><a href="https://www.newurl.xyz/?adref=github_com"> 进入主站 </a></h1>
 
 发送邮件获取最新地址:<br>
 zuicl#qq.com (将#换成@)
-	<br><br>
+	<hr>
+	其他域名 : <br>
+	<a href="https://www.chenren.info/">chenren.info</a> -- 
+	<a href="https://g.redi.biz/">g.redi.biz</a> --
+	<a href="http://www.zuicl.me/">zuicl.me</a> -- 
+	<a href="http://www.zuicl.info/">zuicl.info</a> -- 
+	<a href="http://www.zuicl.vip/">zuicl.vip</a> -- 
+	<a href="http://zcl.one/">zcl.one</a>
+	
+	
+	<br>
+	
 永久不更换的域名 : <br>
 	<hr />
 zuicl.com <br>
