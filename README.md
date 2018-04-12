@@ -14,8 +14,6 @@ zuicl#qq.com (将#换成@)
 	<a href="http://zcl.one/">zcl.one</a>
 	
 	
-	<br>
-	
 永久不更换的域名 : <br>
 	<hr />
 zuicl.com <br>
