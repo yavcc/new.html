@@ -1,6 +1,6 @@
 
 <h1>醉春楼成入网</h1>
-<h1><a href="http://www.zcl8.info" target="_blank">进入主站 zcl8.info</a></h1>
+<h1><a href="http://www.zcl8.info/?adref=github_com" target="_blank">进入主站 zcl8.info</a></h1>
 
 发送邮件获取最新地址:<br>
 zuicl#qq.com (将#换成@)
