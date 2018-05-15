@@ -1,6 +1,6 @@
 
 <h1>醉春楼成入网</h1>
-<h1><a href="https://www.newurl.org/?adref=github_com"> 进入主站 </a></h1>
+<h1><a href="https://www.jb38.cn/?adref=github_com"> 进入主站 </a></h1>
 
 发送邮件获取最新地址:<br>
 zuicl#qq.com (将#换成@)
@@ -32,6 +32,9 @@ zuicl.cn --
 	zcl7.info 
 	zcl8.info 
 	zcl(X).info 
+	zuicl2.com
+	zuicl3.com
+	zuicl(x).com
 	
 	X代表数字, 按照顺序一直往下 
 
