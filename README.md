@@ -1,6 +1,6 @@
 
 <h1>醉春楼成入网</h1>
-<h1><a href="https://www.jb38.cn/?adref=github_com"> 进入主站 </a></h1>
+<h1><img src="www.zcl.ac.cn/favicon.ico"><a href="https://www.jb38.cn/?adref=github_com"> 进入主站 </a></h1>
 
 发送邮件获取最新地址:<br>
 zuicl#qq.com (将#换成@)
