@@ -35,6 +35,12 @@ zuicl.cn --
 	zuicl2.com
 	zuicl3.com
 	zuicl(x).com
+	zcl16.xyz
+	zcl17.xyz
+	zcl18.xyz
+	zcl19.xyz
+	zcl20.xyz
+	zcl(x).xyz
 	
 	X代表数字, 按照顺序一直往下 
 
