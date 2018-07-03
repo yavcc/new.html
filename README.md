@@ -1,13 +1,13 @@
 
 <h1>醉春楼成入网</h1>
-<h1><img src="http://www.zcl.ac.cn/favicon.ico"><a href="https://www.jb38.cn/?adref=github_com"> 进入主站 </a></h1>
+<h1><img src="http://www.zcl.ac.cn/favicon.ico"><a href="https://www.bb085.cn/?adref=github_com"> 进入主站 </a></h1>
 
 发送邮件获取最新地址:<br>
 zuicl#qq.com (将#换成@)
 	<hr>
 	其他域名 : <br>
 	<a href="https://www.chenren.info/">chenren.info</a> -- 
-	<a href="https://g.redi.biz/">g.redi.biz</a> --
+	<a href="https://www.jb38.cn/">jb38.cn</a> --
 	<a href="http://www.zuicl.me/">zuicl.me</a> -- 
 	<a href="http://www.zuicl.info/">zuicl.info</a> -- 
 	<a href="http://www.zuicl.vip/">zuicl.vip</a> -- 
