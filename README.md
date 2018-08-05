@@ -6,6 +6,9 @@
 zuicl#qq.com (将#换成@)
 	<hr>
 	其他域名 : <br>
+	<a href="https://www.bb086.cn/?adref=github_com">bb086.cn</a>
+	<a href="https://www.bb085.cn/?adref=github_com">bb085.cn</a> -- 
+	<a href="https://www.bb050.cn/?adref=github_com">bb050.cn</a> -- 
 	<a href="https://www.chenren.info/">chenren.info</a> -- 
 	<a href="https://www.jb38.cn/">jb38.cn</a> --
 	<a href="http://www.zuicl.me/">zuicl.me</a> -- 
