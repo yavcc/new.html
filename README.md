@@ -16,7 +16,7 @@ zuicl.cn  <br>
 醉春楼.cn  <br>
 <hr />
 
-其他使用过的域名 : <br>
+跳转到新域名 : <br>
 ccddw.com  <br>
 chenren.info  <br>
 	
