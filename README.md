@@ -20,51 +20,39 @@ zuicl.cn  <br>
 ccddw.com  <br>
 chenren.info  <br>
 	
-	X代表数字, 按照顺序一直往下 
-	zcl2.info 
-	zcl3.info 
-	zcl4.info 
-	zcl5.info 
-	zcl6.info 
-	zcl7.info 
-	zcl8.info 
-	zcl(X).info 
-	zuicl2.com
-	zuicl3.com
-	zuicl(x).com
-	zcl16.xyz
-	zcl17.xyz
-	zcl18.xyz
-	zcl19.xyz
-	zcl20.xyz
+	X代表数字, 按照从1开始的顺序一直往下 比如 zcl2.xyz -- zcl3.xyz -- zcl4.xyz
 	zcl(x).xyz
-	
-	其他域名 : <br>
-
-zuicl.me  <br>
-zuicl.info  <br>
-zuicl.vip  <br>
-zcl.one  <br>
-zuicl.net  <br>
-zuicl.art  <br>
-zuicl.top  <br>
-zuicl.xin  <br>
-zuicl.club  <br>
-zuicl.site  <br>
-zuicl.xyz  <br>
-zuicl.cc  <br>
-zuicl.wang  <br>
-zuicl.shop  <br>
-zuicl.online  <br>
-zuicl.pro  <br>
-zuicl.fun  <br>
-zuicl.link  <br>
-zuicl.org  <br>
-zuicl.co  <br>
-zuicl.name  <br>
-zuicl.live  <br>
-
-
-
+	zuicl(x).com
+	zcl(X).info 
+	 
 	
 	
+	
+	
+	
+	
+	其他域名 : 
+	zuicl.me
+	zuicl.info
+	zuicl.vip
+	zcl.one
+	zuicl.net
+	zuicl.art
+	zuicl.top
+	zuicl.xin
+	zuicl.club
+	zuicl.site
+	zuicl.xyz
+	zuicl.cc
+	zuicl.wang
+	zuicl.shop
+	zuicl.online
+	zuicl.pro
+	zuicl.fun
+	zuicl.link
+	zuicl.org
+	zuicl.co
+	zuicl.name
+	zuicl.live
+	
+
