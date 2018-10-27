@@ -16,7 +16,29 @@ zuicl.cn  <br>
 醉春楼.cn  <br>
 <hr />
 
-其他域名 : <br>
+其他使用过的域名 : <br>
+
+	
+	X代表数字, 按照顺序一直往下 
+	zcl2.info 
+	zcl3.info 
+	zcl4.info 
+	zcl5.info 
+	zcl6.info 
+	zcl7.info 
+	zcl8.info 
+	zcl(X).info 
+	zuicl2.com
+	zuicl3.com
+	zuicl(x).com
+	zcl16.xyz
+	zcl17.xyz
+	zcl18.xyz
+	zcl19.xyz
+	zcl20.xyz
+	zcl(x).xyz
+	
+	其他域名 : <br>
 ccddw.com  <br>
 chenren.info  <br>
 zuicl.me  <br>
@@ -41,28 +63,8 @@ zuicl.org  <br>
 zuicl.co  <br>
 zuicl.name  <br>
 zuicl.live  <br>
-	
-	
 
-其他使用过的域名 : <br>
-	zcl2.info 
-	zcl3.info 
-	zcl4.info 
-	zcl5.info 
-	zcl6.info 
-	zcl7.info 
-	zcl8.info 
-	zcl(X).info 
-	zuicl2.com
-	zuicl3.com
-	zuicl(x).com
-	zcl16.xyz
-	zcl17.xyz
-	zcl18.xyz
-	zcl19.xyz
-	zcl20.xyz
-	zcl(x).xyz	
-	
-	
-	X代表数字, 按照顺序一直往下 
 
+
+	
+	
