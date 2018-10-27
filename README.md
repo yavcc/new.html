@@ -1,33 +1,50 @@
 
 <h1>醉春楼成入网</h1>
-<h1><img src="http://www.zcl.one/favicon.ico"><a href="https://www.ccddw.com/?adref=github_com"> 进入主站 </a></h1>
+<h1>
+<img src="https://cdn.lmccc.com/ico/zcl.ico">
+<a href="https://www.ccddw.com/?adref=github_com"> 进入主站 </a></h1>
 
 发送邮件获取最新地址:<br>
 zuicl#qq.com (将#换成@)
-	<hr>
-	其他域名 : <br>
-	<a href="https://www.ccddw.com/?adref=github_com">ccddw.com</a>
-	<a href="https://www.bb086.cn/?adref=github_com">bb086.cn</a>
-	<a href="https://www.bb085.cn/?adref=github_com">bb085.cn</a> -- 
-	<a href="https://www.bb050.cn/?adref=github_com">bb050.cn</a> -- 
-	<a href="https://www.chenren.info/">chenren.info</a> -- 
-	<a href="https://www.jb38.cn/">jb38.cn</a> --
-	<a href="http://www.zuicl.me/">zuicl.me</a> -- 
-	<a href="http://www.zuicl.info/">zuicl.info</a> -- 
-	<a href="http://www.zuicl.vip/">zuicl.vip</a> -- 
-	<a href="http://zcl.one/">zcl.one</a>
-	
-	
+
 永久不更换的域名 : <br>
 <hr />
 
-zuicl.com --
-zuicl.cn --
-醉春楼.com --
-醉春楼.cn
+zuicl.com  <br>
+zuicl.cn  <br>
+醉春楼.com  <br>
+醉春楼.cn  <br>
 <hr />
-其他使用过的域名 : <br>
+
+其他域名 : <br>
+ccddw.com  <br>
+chenren.info  <br>
+zuicl.me  <br>
+zuicl.info  <br>
+zuicl.vip  <br>
+zcl.one  <br>
+zuicl.net  <br>
+zuicl.art  <br>
+zuicl.top  <br>
+zuicl.xin  <br>
+zuicl.club  <br>
+zuicl.site  <br>
+zuicl.xyz  <br>
+zuicl.cc  <br>
+zuicl.wang  <br>
+zuicl.shop  <br>
+zuicl.online  <br>
+zuicl.pro  <br>
+zuicl.fun  <br>
+zuicl.link  <br>
+zuicl.org  <br>
+zuicl.co  <br>
+zuicl.name  <br>
+zuicl.live  <br>
 	
+	
+
+其他使用过的域名 : <br>
 	zcl2.info 
 	zcl3.info 
 	zcl4.info 
@@ -44,7 +61,8 @@ zuicl.cn --
 	zcl18.xyz
 	zcl19.xyz
 	zcl20.xyz
-	zcl(x).xyz
+	zcl(x).xyz	
+	
 	
 	X代表数字, 按照顺序一直往下 
 
