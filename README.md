@@ -17,7 +17,8 @@ zuicl.cn  <br>
 <hr />
 
 其他使用过的域名 : <br>
-
+ccddw.com  <br>
+chenren.info  <br>
 	
 	X代表数字, 按照顺序一直往下 
 	zcl2.info 
@@ -39,8 +40,7 @@ zuicl.cn  <br>
 	zcl(x).xyz
 	
 	其他域名 : <br>
-ccddw.com  <br>
-chenren.info  <br>
+
 zuicl.me  <br>
 zuicl.info  <br>
 zuicl.vip  <br>
