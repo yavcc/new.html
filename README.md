@@ -25,12 +25,6 @@ chenren.info  <br>
 	zuicl(x).com
 	zcl(X).info 
 	 
-	
-	
-	
-	
-	
-	
 	其他域名 : 
 	zuicl.me
 	zuicl.info
